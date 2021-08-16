@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-ui-pc-static-portal" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>picker</find>
+      <find>upload</find>
+      <find>fileList</find>
+      <find>uploadFile</find>
+      <find>fileMd5</find>
+      <find>alert(</find>
+      <find>uploader</find>
+      <find>上传文件失败，请刷新页面重试</find>
+      <find>loginFormVisible</find>
+      <find>login</find>
+      <find>user.</find>
+      <find>getActiveUser</find>
+      <find>checkActiveUser</find>
+      <find>logout</find>
+      <find>getUserSession</find>
+      <find>user</find>
+      <find>getUserInfoFromJwt</find>
+      <find>欢迎</find>
+      <find>setUserSession</find>
+      <find>learnstatus</find>
+      <find>queryCompanyStat</find>
+      <find>showlogin</find>
+      <find>delUserSession</find>
+      <find>createOrder</find>
+      <find>getLearnstatus</find>
+      <find>popup-box</find>
+      <find>headVm</find>
+      <find>buy</find>
+      <find>Message</find>
+      <find>#include</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
+    </dirStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1PLXLEMmTotzPQ8HKiwCanHtiMh" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/course/detail/course_main_template.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xcEdu\xcEduUI01\xc-ui-pc-static-portal\img" />
+      <recent name="D:\xcEdu\xcEduUI01\xc-ui-pc-static-portal\include" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\js" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\include" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xcEdu\xcEduUI01\xc-ui-pc-static-portal\img" />
+      <recent name="D:\xcEdu\xcEduUI01\xc-ui-pc-static-portal\course\detail" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+      <created>1522380484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522380484107</updated>
+      <workItem from="1522380485408" duration="3321000" />
+      <workItem from="1522508971246" duration="774000" />
+      <workItem from="1523427826704" duration="1327000" />
+      <workItem from="1524130929472" duration="1877000" />
+      <workItem from="1524879081123" duration="42000" />
+      <workItem from="1525783769466" duration="7861000" />
+      <workItem from="1525855065000" duration="1553000" />
+      <workItem from="1525875545751" duration="590000" />
+      <workItem from="1525919502156" duration="32220000" />
+      <workItem from="1526894397864" duration="9476000" />
+      <workItem from="1526977959394" duration="13563000" />
+      <workItem from="1527237696038" duration="16456000" />
+      <workItem from="1527865495024" duration="667000" />
+      <workItem from="1527923954209" duration="1626000" />
+      <workItem from="1528153794416" duration="4484000" />
+      <workItem from="1528173396953" duration="621000" />
+      <workItem from="1528190447746" duration="8000" />
+      <workItem from="1528249696513" duration="770000" />
+      <workItem from="1565654306911" duration="1945000" />
+      <workItem from="1565691500180" duration="7629000" />
+      <workItem from="1566460065211" duration="1995000" />
+      <workItem from="1566521744485" duration="1638000" />
+      <workItem from="1578646218217" duration="1090000" />
+      <workItem from="1579145040962" duration="3504000" />
+      <workItem from="1579161893721" duration="602000" />
+      <workItem from="1579241527915" duration="2568000" />
+      <workItem from="1579604439071" duration="2068000" />
+      <workItem from="1580206079688" duration="4000" />
+      <workItem from="1580206245074" duration="676000" />
+      <workItem from="1580711367080" duration="3000" />
+      <workItem from="1580711505972" duration="7000" />
+      <workItem from="1580711687956" duration="2078000" />
+      <workItem from="1581169664280" duration="626000" />
+      <workItem from="1582451644708" duration="12588000" />
+      <workItem from="1583314920058" duration="640000" />
+      <workItem from="1583391756829" duration="19000" />
+      <workItem from="1583573133129" duration="1920000" />
+      <workItem from="1583643167407" duration="449000" />
+      <workItem from="1584285473181" duration="1086000" />
+      <workItem from="1584873046846" duration="2138000" />
+      <workItem from="1584933623553" duration="601000" />
+      <workItem from="1585378911979" duration="462000" />
+      <workItem from="1585468713557" duration="1216000" />
+      <workItem from="1585649922897" duration="1207000" />
+      <workItem from="1586325630730" duration="1916000" />
+      <workItem from="1586662456249" duration="11000" />
+      <workItem from="1586774001965" duration="2106000" />
+      <workItem from="1586783555945" duration="3123000" />
+      <workItem from="1587092894609" duration="5363000" />
+      <workItem from="1587182788648" duration="2340000" />
+      <workItem from="1587446519468" duration="815000" />
+      <workItem from="1587977195378" duration="12357000" />
+      <workItem from="1587997894571" duration="356000" />
+      <workItem from="1588128568052" duration="7659000" />
+      <workItem from="1588143361946" duration="3445000" />
+      <workItem from="1588152625868" duration="26000" />
+      <workItem from="1588658576511" duration="2517000" />
+      <workItem from="1588666228503" duration="38000" />
+      <workItem from="1588862729361" duration="446000" />
+      <workItem from="1588863218256" duration="8000" />
+      <workItem from="1590485643123" duration="764000" />
+      <workItem from="1590557368953" duration="675000" />
+      <workItem from="1591519193330" duration="33000" />
+      <workItem from="1591602225451" duration="58000" />
+      <workItem from="1591604270486" duration="3619000" />
+      <workItem from="1591703001980" duration="10000" />
+      <workItem from="1591703241479" duration="44000" />
+      <workItem from="1591703519926" duration="28000" />
+      <workItem from="1593078489576" duration="9855000" />
+      <workItem from="1593598817783" duration="2853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
